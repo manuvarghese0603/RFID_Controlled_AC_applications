@@ -1,7 +1,7 @@
 # RFID_Controlled_AC_applications
 
 - This project was the part of Arduino bootcamo organized by Team Pragyastra .
-- To learn more about the project and Team pragyastra chack the links below.
+- To learn more about the project and Team pragyastra check the links below.
 
 <br />
 
